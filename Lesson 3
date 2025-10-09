@@ -1,0 +1,12 @@
+<html><!--This is a comment-->
+    <head>
+<title>Lesson 3</title>
+<body style="background-color:rgb(177, 241, 255);">
+<h1 style="color:rgb(8, 17, 53);">A dark blue heading</h1>
+        <h2 style="font-size:300%;">B I G H E A D I N G</h2>
+        <center><p style="font-family:courier;">This font uses courier.</p></center>
+        <p><q>The important thing is not to stop questioning. Curiosity has its own reason for existing.</q> - Albert Einstein</p>
+<center><p>Today I will be demonstrating what I learned in Lesson 3: Styling</p></center>
+</body>
+    </head>
+    </html>
