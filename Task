@@ -1,0 +1,22 @@
+<html><!--This lets VSCode know we are coding in HTML-->
+    <head>
+        <title>Soccer</title><!-- This is the title of my website, it appears on your browser -->
+    </head>
+<body> 
+<body style="background-color: rgb(72, 203, 122);">
+    <p style="color: blue;">This text will be blue.</p>
+    <h1 style="color: #6cffe9e1;">This heading will be teal.</h1>    <!-- Content of your webpage -->
+</body>    <!-- Content of your webpage -->
+</body><center><h1>My Favorite Sport: Soccer</h1></center> <!--This is the largest heading in HTML-->
+<center><p>"Soccer" is a worldwide sport in which two teams consisting of 11 players compete to score more goals in the net of the opposing team.</center>
+<center><p>Soccer is commonly referred to as the most popular and well-known sport, with about 3.5 billion fans around the globe.</center>
+
+<center><p>Soccer is my favorite sport as it involves creativity, teamwork, and is easily acessible to anyone anywhere unlike expensive sports like golf.</center></p>
+</p>
+<hr>
+<a href="https://www.fifa.com/en"><!--This is the format to insert an image in HTML-->
+  <center><img src="soccer (1).jpg" width="400px" height="250px" alt="information">
+</a></center>
+<center><p><a href="Day 1.html">Click me</a> to continue broswing my website!.</p></center>
+    </body>
+    </html>
