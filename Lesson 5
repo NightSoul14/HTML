@@ -1,0 +1,30 @@
+<html>
+<head> 
+<title>Lesson 5</title>
+
+<center><h1 style="color: rgb(108, 230, 255)";>Contact Us</h1></center>
+
+<body> 
+
+<center><form>
+
+<form action="submit.php">
+  First name:<br>
+  <input type="text" name="First name" value="Enter first name here"><br>
+  Last name:<br>
+  <input type="text" name="Email" value="Enter email here"><br><br>
+  <input type="submit" value="Submit">
+
+  <center><iframe src="https://apps.ankiweb.net/" height="500" width="500"></iframe></center>
+
+<center> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2172911486687!2d-79.23455752387721!3d43.89276617302916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d5282790c623ab%3A0x4f645fb1adfb64bc!2sBill%20Hogarth%20Secondary%20School!5e0!3m2!1sen!2sca!4v1760027034430!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+
+</center> </form>
+
+
+
+
+
+</body>
+</head>
+</html
