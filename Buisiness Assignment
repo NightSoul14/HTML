@@ -2,18 +2,12 @@
 <head>
 <title>AI Flashcard Transcriber</title>
 
-<body>
+<body style="background-color:white;">
     
-<center><h1 style="font-size: 70px;">AI Flashcard Transcriber</h1></center>
-
-<center><p>Turn your notes into active flashcards in <strong>seconds</strong></p></center>
-
-
-
-    <p>This is some <span class="highlight">important text</span> within a paragraph.</p>
-
-    
-<p>Only three steps!</p>
+<img style="text-align: left;"><img src="3.png" alt="image"height="300px"width="200px">
+<p style="font-size: 24px;color:black">Turn your notes into active flashcards in <span style="color: rgb(81, 194, 255);"><strong>seconds</strong></span></p>
+<p style="font-size: 20px;">Remember more, accomplish more</p>
+<p style="color: black;">Only three steps!</p>
 
 <ol>
 
