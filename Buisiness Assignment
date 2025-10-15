@@ -1,21 +1,51 @@
-<html>
+<html> 
+    <div style="display: flex; justify-content: flex-end; gap: 20px;">
+    <a href="Rizz.html">About Us</a>
+    <a href="Eat.html">Testimonials</a>
+    <a href="Drink.html">Contact Us</a>
+
+</div>
+
 <head>
 <title>AI Flashcard Transcriber</title>
 
-<body style="background-color:white;">
+<body style="background-color:rgb(0, 0, 0);">
     
-<img style="text-align: left;"><img src="3.png" alt="image"height="300px"width="200px">
-<p style="font-size: 24px;color:black">Turn your notes into active flashcards in <span style="color: rgb(81, 194, 255);"><strong>seconds</strong></span></p>
-<p style="font-size: 20px;">Remember more, accomplish more</p>
-<p style="color: black;">Only three steps!</p>
+<img style="text-align: left;"><img src="Logo For Comp. Sci Assignment (2).png" alt="image"height="125px"width="100px">
+<p style="font-size: 36px;color:rgb(255, 255, 255)">Remember more, achieve <span style="color: rgb(255, 104, 200);"><strong>more</strong></span></p>
+<p style="font-size: 28px; color:white;">Rapid Recall is an AI tool that can turn your notes into active flashcards in <span style="color: rgb(100, 203, 255);"><strong>seconds.</strong></span></p>
+<hr>
+<p style="color: rgb(255, 255, 255); font-size: 45px; text-align: center;">
+    <strong>Three Simple Steps <img src="improve.png"height="70px"height="70px"></strong>
+</p>
 
-<ol>
+<ol style="font-size: 36px; text-align: center; list-style-position: inside; color:white">
+    <li>Upload your notes</li>
+    <div> 
+    </div>
+    <li>Receive your flashcards</li>
+    <div>
+    </div>
+    <li>Practice to ace your tests!</li>
+    <div>
+    </div>
+    <img src="sticky-note.png" height="200px" width="200px" alt="Sticky Note">
+    <img src="flash-card (1).png" height="200px" width="200px" alt="Flashcards">
+    <img src="trophy-star.png" height="200px" width="200px" alt="Trophy">
+<hr>
+<h2><strong>Reasons To Use RapidRecall</strong> <img src="fire.png" height="50px" width="50px" alt="Trophy"></h2>
 
-<li>Upload your notes</li>
-<li>Recieve your flashcards</li>
-<li>Practice to ace your tests!</li>
+<ul> 
+<li>Rapid flashcard generation</li>
+<li>Accurately reads handwriting</li>
+<li>Unlimited note uploading</li>
+<li>Synchronization between devices</li>
+
+</ul>
 
 </ol>
+
+
 
 <body>
 
