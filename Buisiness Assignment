@@ -1,8 +1,8 @@
 <html> 
     <div style="display: flex; justify-content: flex-end; gap: 20px;">
-    <a href="Rizz.html">About Us</a>
-    <a href="Eat.html">Testimonials</a>
-    <a href="Drink.html">Contact Us</a>
+    <a style="color: rgb(255, 104, 200);"href="Rizz.html">About Us</a>
+    <a style="color: rgb(100, 203, 255)"href="Eat.html">Testimonials</a>
+    <a style="color: rgb(255, 104, 200);" href="Drink.html">Contact Us</a>
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <body style="background-color:rgb(0, 0, 0);">
     
-<img style="text-align: left;"><img src="Logo For Comp. Sci Assignment (2).png" alt="image"height="125px"width="100px">
+<img style="text-align: left;"><img src="Logo For Comp. Sci Assignment (2).png" alt="image"height="200px"width="150px">
 <p style="font-size: 36px;color:rgb(255, 255, 255)">Remember more, achieve <span style="color: rgb(255, 104, 200);"><strong>more</strong></span></p>
 <p style="font-size: 28px; color:white;">Rapid Recall is an AI tool that can turn your notes into active flashcards in <span style="color: rgb(100, 203, 255);"><strong>seconds.</strong></span></p>
 <hr>
@@ -33,19 +33,49 @@
     <img src="flash-card (1).png" height="200px" width="200px" alt="Flashcards">
     <img src="trophy-star.png" height="200px" width="200px" alt="Trophy">
 <hr>
-<h2><strong>Reasons To Use RapidRecall</strong> <img src="fire.png" height="50px" width="50px" alt="Trophy"></h2>
+<h2><strong>Possibilities of RapidRecall</strong> <img src="fire.png" height="50px" width="50px" alt="Trophy"></h2>
 
-<ul> 
-<li>Rapid flashcard generation</li>
-<li>Accurately reads handwriting</li>
-<li>Unlimited note uploading</li>
-<li>Synchronization between devices</li>
-
-</ul>
-
-</ol>
-
-
+  <center><table border="1" style="color: white; font-size:30px;"></center>
+            <tr>
+                <th>Feature</th>
+                <th>Availability</th>
+            </tr>
+            <tr>
+                <td>Instant flashcard generation</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            </tr>
+            <tr>
+                <td>Accurate handwriting detection</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            </tr>
+            <tr>
+                <td>Unlimited note uploading</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            </tr>
+            <tr>
+                <td>Cross-Device syncing</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            <tr>
+                <td>Fully editable cards</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            </tr>
+         <tr>
+                <td>Spaced repetition system</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            </tr>
+             <tr>
+                <td>Sharable study sets</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            </tr>
+             <tr>
+                <td>Focus & dark mode</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            </tr>
+             <tr>
+                <td>Built in progress-tracker</td>
+                <td> <center><img src="Untitled presentation (16).png"height="50px""width="50px"></center></td>
+            </tr>
+        </table>
 
 <body>
 
