@@ -1,0 +1,32 @@
+<html>
+      <div style="display: flex; justify-content: flex-end; gap: 20px;">
+      <a style="color: rgb(100, 203, 255);" href="Untitled-1.html">Home</a>
+        <a style="color: rgb(255, 104, 200);"href="Rizz.html">About Us</a>
+    <a style="color: rgb(100, 203, 255)"href="Eat.html">Testimonials</a>
+    <a style="color: rgb(255, 104, 200);" href="Drink.html">Contact Us</a>
+</div>
+<head>
+
+<title>Testimonials</title>
+
+<body style="background-color: black";>
+    
+    <center><h1 style="color:rgb(255, 255, 255);">Testimonials</h1></center>
+<center><p style="color:white;">Scroll down to see all these reviews of our product!</p></center>
+
+<img src="Untitled presentation (7).png" alt="image" height="550px" width="1000px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="Untitled presentation (8).png" alt="image" height="550px" width="1000px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="Untitled presentation (9).png" height="550px" width="1000px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="Untitled presentation (10).png" alt="image" height="550px" width="1000px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="Untitled presentation (11).png" alt="image" height="550px" width="1000px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="Untitled presentation (13).png" alt="image" height="550px" width="1000px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="Untitled presentation (14).png" alt="image" height="550px" width="1000px" style="display: block; margin-left: auto; margin-right: auto;">
+
+<center><strong><a style="color:white; font-size:30px;"href="Eat.html">Back to top</a></strong></center>
+
+
+
+    </body>
+
+</head>
+        </html>
